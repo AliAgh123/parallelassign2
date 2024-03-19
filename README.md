@@ -1,5 +1,5 @@
 # parallelassign2
-# Running:
+## Running:
 To run the files above run the following commands to build one of the files:
 ```
 gcc -o main -fopenmp main.c
